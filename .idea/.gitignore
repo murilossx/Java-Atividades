@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# Maven / Gradle
+target/
+build/
+.gradle/
